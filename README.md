@@ -1,22 +1,14 @@
-<<<<<<< HEAD
-## Getting Started
+# Exercícios de Switch Case em Java
+Este repositório contém exercícios práticos de lógica de programação focados no uso da estrutura Switch Case em Java. Os exercícios foram desenvolvidos para aprimorar habilidades de tomada de decisão em código e fazem parte das aulas ministradas pelo professor Jailson (Obama) no Instituto Proa.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# 📚 Objetivo
+Desenvolver a lógica de programação por meio de exercícios que utilizam a estrutura Switch Case.
+Explorar casos de uso comuns, como menus interativos, validações e respostas baseadas em condições específicas.
+Consolidar os fundamentos da linguagem Java.
+# 📝 Conteúdo
+Os exercícios abordam situações práticas, como:
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# SwitchCaseJava
->>>>>>> 2e90a608567cd9299e38f6f70a2a4e1e2fcc9867
+Cálculo de operações matemáticas com base em opções escolhidas pelo usuário.
+Validação de dias da semana e meses do ano.
+Criação de menus de interação com diferentes funcionalidades.
+Simulação de sistemas simples como atendimento automatizado.
